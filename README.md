@@ -20,7 +20,7 @@ mamba create --prefix /*in the directory in 3*/*name of env*
 
 6. Run example scripts in this doc
 
-7. Save output, copy the file back to your home directory, and transfer it to your local computer through the scp command 
+7. Save output, copy the file back to your home directory, and transfer it to your local computer through the `scp` command 
 
 Extra exercise
 
