@@ -10,10 +10,9 @@
 
 4. Create a conda environment via 
 
-``bash
-module load mamba
 ``
-``bash
+module load mamba
+
 mamba create --prefix /*in the directory in 3*/*name of env*
 ``
 
