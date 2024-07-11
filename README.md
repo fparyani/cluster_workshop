@@ -12,7 +12,8 @@
 
 ``bash
 module load mamba
-
+``
+``bash
 mamba create --prefix /*in the directory in 3*/*name of env*
 ``
 
