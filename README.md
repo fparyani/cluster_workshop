@@ -10,11 +10,11 @@
 
 4. Create a conda environment via 
 
-``
+```bash
 module load mamba
 
 mamba create --prefix /*in the directory in 3*/*name of env*
-``
+```
 
 5. Install jupyter through `pip install jupyter` or `pip install jupyter-lab` command and launch notebook
 
